@@ -13,7 +13,7 @@ $ sudo locale-gen en_US.UTF-8`
 
  -  **Download the AGL Source**
     
-    First, you need to clone the AGL source repository using `repo`:
+    First, we need to clone the AGL source repository using `repo`:
  - `mkdir ~/bin`
  - `curl https://storage.googleapis.com/git-repo-downloads/repo > ~/bin/repo`
  - `chmod a+x ~/bin/repo`
@@ -30,7 +30,7 @@ Next, initialize and sync the AGL repository:
     
 -   **Include the IPSec Package**
     
-    In order to include the IPSec package, you need to edit the `local.conf` file located in `conf`. Add the following line:
+    In order to include the IPSec package, we need to edit the `local.conf` file located in `conf`. Add the following line:
     
 
     
@@ -47,7 +47,6 @@ Next, initialize and sync the AGL repository:
     
     The build process might take some time, depending on the resources available on your workstation.
     
-
 After the build process is completed successfully, you will find your custom AGL image in the `tmp/deploy/images/qemux86-64` directory.
 
 Detailed steps available in :
