@@ -6,3 +6,8 @@ Our testbed is composed of two setups: an instance of Automotive Grade Linux (AG
 
 This repository contains details about both the setup and instructions necessary for setting up and experimenting with the testbed.
 
+For AGL Setup :
+https://github.com/AmritaCSN/MajorProject_AMENP2CSN21003_Amaldeep/blob/main/src/agl/README.md
+
+For Omnet++ setup
+https://github.com/AmritaCSN/MajorProject_AMENP2CSN21003_Amaldeep/tree/main/src/omnetpp
