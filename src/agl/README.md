@@ -1,6 +1,9 @@
 
 ## Building a Custom Automotive Grade Linux Image with IPSec
 
+### Workflow
+![AGL Workflow](https://github.com/AmritaCSN/MajorProject_AMENP2CSN21003_Amaldeep/blob/main/AGL_FlowDiagram.png)
+
 ### Prerequisites
 
 1.  Linux machine or virtual machine with linux
