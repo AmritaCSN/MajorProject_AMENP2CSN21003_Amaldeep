@@ -11,7 +11,7 @@ This section will outline the steps necessary to configure a static vehicular ne
 
 1.  **Install OMNeT++**
     
-    Follow the instructions provided in the official [OMNeT++ installation guide](https://doc.omnetpp.org/omnetpp/InstallGuide.pdf) to install OMNeT++ on your system.
+    Install OMNeT++ on your system.[OMNeT++ installation guide](https://doc.omnetpp.org/omnetpp/InstallGuide.pdf)
     
 2.  **Install INET Framework**
     
