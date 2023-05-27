@@ -5,8 +5,7 @@
 ![AGL Workflow](https://github.com/AmritaCSN/MajorProject_AMENP2CSN21003_Amaldeep/blob/main/AGL_FlowDiagram.png)
 
 ### Prerequisites
-was used)
-1.  Linux machine or virtual machine with linux (Here Debian GNU/Linux 11.x was used)
+1.  Linux machine or virtual machine with linux (Here Debian GNU/Linux 11.x was used) For details about other supported host machines, please refer : https://docs.yoctoproject.org/ref-manual/system-requirements.html#supported-linux-distributions
 2.  Install required packages
 `sudo apt install gawk wget git diffstat unzip texinfo gcc build-essential chrpath socat cpio python3 python3-pip python3-pexpect xz-utils debianutils iputils-ping python3-git python3-jinja2 libegl1-mesa libsdl1.2-dev python3-subunit mesa-common-dev zstd liblz4-tool file locales
 $ sudo locale-gen en_US.UTF-8` 
